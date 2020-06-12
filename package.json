@@ -1,14 +1,14 @@
 {
-    "name": "guozhao-blog",
-    "title": "Ming Blog",
-    "author": "Ming <guozhao265@sina.com>",
+    "name": "hux-blog",
+    "title": "Hux Blog",
+    "author": "Hux <huxpro@gmail.com>",
     "version": "1.8.2",
-    "homepage": "http://guozhao.page.github.io",
+    "homepage": "http://huxpro.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/guozhao265/guozhao.page.github.io"
+        "url": "https://github.com/Huxpro/huxpro.github.io"
     },
-    "bugs": "https://github.com/guozhao265/guozhao.page.github.io/issues",
+    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
         "grunt": "^1.1.0",
         "grunt-banner": "~0.2.3",
