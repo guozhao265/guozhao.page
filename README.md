@@ -1,9 +1,9 @@
 Hux Blog
 ========
 
-### [View alive Hux Blog &rarr;](https://huangxuan.me)  
+### [View alive Hux Blog &rarr;](https://http://guozhao.page.github.io/)  
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://http://guozhao.page.github.io//img/blog-desktop.jpg)
 
 
 Boilerplate (beta)
@@ -17,7 +17,7 @@ Boilerplate provide a clean version of this buzz blog.
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 ```
 
-**[View alive Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
+**[View alive Boilerplate &rarr;](http://http://guozhao.page.github.io//huxblog-boilerplate/)**
 
 
 Porting 
@@ -49,7 +49,7 @@ Releases
 
 #### V1.8
 
-- Brand new [Archive](https://huangxuan.me/archive/) page! It combines previous Archive and Tag page and it's backward-cmpatible.
+- Brand new [Archive](https://http://guozhao.page.github.io//archive/) page! It combines previous Archive and Tag page and it's backward-cmpatible.
 Shout out to [@kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) of bringing this idea. 
 - Improve engineering by extracting duplicated liquid templates into reuseable includes. This was proposed in #74 by @Kaijun but postponed for entirely 2.5 years! I wasn't able to merge his PR directly because of long-time divegence but the credit is belonging to @Kaijun.
 - Improved code block. Long-wanted line number are supported out of the box (thanks for @SmilingParadise's help from Sina Weibo), the default theme is updated to Atom One Dark as well (checkout FQA for how to change to your farovite theme)
@@ -94,7 +94,7 @@ Shout out to [@kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-
 
 - Big Improvement to the **Navigation Menu** *(especially in Android)*:  Dropping the old, stuttering, low-performance [Bootstrap collapse.js](http://getbootstrap.com/javascript/#collapse),  replaced with an own wrote, [jank free](http://jankfree.org/) navbar menu in a pretty high-performance implementation of [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html).
 
-<img src="http://huangxuan.me/img/blog-md-navbar.gif" width="320" />
+<img src="http://http://guozhao.page.github.io//img/blog-md-navbar.gif" width="320" />
 
 
 #### V1.2
@@ -198,7 +198,7 @@ tags:
 
 ### SideBar
 
-![](http://huangxuan.me/img/blog-sidebar.jpg)
+![](http://http://guozhao.page.github.io//img/blog-sidebar.jpg)
 
 **SideBar** provides possible modules to show off more personal information.
 
@@ -255,7 +255,7 @@ friends: [
 
 ### Keynote Layout
 
-![](http://huangxuan.me/img/blog-keynote.jpg)
+![](http://http://guozhao.page.github.io//img/blog-keynote.jpg)
 
 There is a increased trend to use Open Web technology for keynotes and presentations via Reveal.js, Impress.js, Slides, Prezi etc. I consider a modern blog should have first-class support to embed these HTML based presentation so **Keynote layout** are made.
 
@@ -264,7 +264,7 @@ To use, in the **front-matter**:
 ```yml
 ---
 layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
+iframe:     "http://http://guozhao.page.github.io//js-module-7day/"
 ---
 ```
 
@@ -302,7 +302,7 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: http://guozhao.page.github.io/
 ```
 
 Just checkout the code offered by Google/Baidu, and copy paste here, all the rest is already done for you.
