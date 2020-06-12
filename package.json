@@ -6,9 +6,9 @@
     "homepage": "http://guozhao.page.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/guozhao265/guozhao.page.github.io"
+        "url": "https://github.com/guozhao265/guozhao.page"
     },
-    "bugs": "https://github.com/guozhao265/guozhao.page.github.io/issues",
+    "bugs": "https://github.com/guozhao265/guozhao.page/issues",
     "devDependencies": {
         "grunt": "^1.1.0",
         "grunt-banner": "~0.2.3",
